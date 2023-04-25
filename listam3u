@@ -1,0 +1,85 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", XHXEM AZTECA 1
+dtv://antenna:27/atsc/1/1
+#EXTINF:0 type="stream" channelId="-1", XHTOL ESTRELLAS
+dtv://antenna:19/atsc/2/1
+#EXTINF:0 type="stream" channelId="-1", CV DIRECTO
+dtv://antenna:15/atsc/4/2
+#EXTINF:0 type="stream" channelId="-1", XHTOL FOROTV
+dtv://antenna:15/atsc/4/1
+#EXTINF:0 type="stream" channelId="-1", XEX CANAL 5.1
+dtv://antenna:14/atsc/5/1
+#EXTINF:0 type="stream" channelId="-1", XHTDMX1 CANAL 6.1
+dtv://antenna:12/atsc/6/1
+#EXTINF:0 type="stream" channelId="-1", XHLUC AZTECA 7.1
+dtv://antenna:35/atsc/7/1
+#EXTINF:0 type="stream" channelId="-1", 7.2 a mas+
+dtv://antenna:24/atsc/7/2
+#EXTINF:0 type="stream" channelId="-1", XHATZ CANAL NUEVE 9.1
+dtv://antenna:16/atsc/9/1
+#EXTINF:0 type="stream" channelId="-1", XHTDMX4 MVStv
+dtv://antenna:12/atsc/6/4
+#EXTINF:0 type="stream" channelId="-1", XHPTPHD 34.1
+dtv://antenna:41/atsc/34/1
+#EXTINF:0 type="stream" channelId="-1", XHGEMSD 34.2
+dtv://antenna:20/atsc/34/2
+#EXTINF:0 type="stream" channelId="-1", XHGEMTV 34.3
+dtv://antenna:20/atsc/34/3
+#EXTINF:0 type="stream" channelId="-1", XHXEM ADN40
+dtv://antenna:27/atsc/1/2
+#EXTINF:0 type="stream" channelId="-1", WOW TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels", CINE Y SERIES:Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", Central TV Per&Atilde;&ordm;
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels", Holvoet TV Chile
+http://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/holvoettv/livestream1/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels", ENTRETENIMIENTO:Canal 9 (Argentina)
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels", ENTRETENIMIENTO:Telesur (Costa Rica)
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", ARGENTINA:Litus | HD
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0 type="stream" channelId="736", CGTN Español
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0011
+#EXTINF:0 type="stream" channelId="-1", NOTICIAS:Arirang | HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MUSICA:Music Top Argentina
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Without category" logo="http://127.0.0.1/", RCG TV2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MEXICO:RTQ Queretaro
+http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="USA" logo="https://i.imgur.com/YajfXJ1.png", Beach TV - Pawleys Island
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="MUSICA" logo="http://i.imgur.com/IzHgZmg.jpg", Retro Tv
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="RADIOTV" logo="http://i.imgur.com/xBgH1Tw.jpg", Maxima Radio y Videos
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="TV Musicas" logo="http://127.0.0.1/", ONE 0
+http://rtmp.one.by:1200
+#EXTINF:0 type="stream" channelId="-1" group="TV Musicas" logo="http://127.0.0.1/", ONE 1 HD
+http://rtmp.one.by:1300
+#EXTINF:0 type="stream" channelId="-1" group="TV Musicas" logo="http://127.0.0.1/", ONE 4 HD
+http://rtmp.one.by:2300
+#EXTINF:0 type="stream" channelId="-1" group="Sem Categoria" logo="http://i67.tinypic.com/2qv5g5i.png", MusicTop HD
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.clker.com/cliparts/B/x/g/L/h/v/blue-rounded-with-number-9-md.png", CANAL 9 TV SUR CR
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/chunklist_w2062422029.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://www.perezzeledon.net/wp-content/uploads/8811.gif", CANAL 88 STEREO CR
+http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="http://doutico.com/wpimages/wp284c9e60_06.png", CANAL NICOYA TV 36 CR
+http://k4.usastreams.com/nicoyatv/nicoyatv/chunklist_w1409466758.m3u8
+#EXTINF:0 type="stream" channelId="736" logo="https://yt3.ggpht.com/a-/ACSszfFBVcVBVuU9re2ZwpqZD9sGJPlCDiPEARLOGg=s900-mo-c-c0xffffffff-rj-k-no", CGTN ESPAÑOL
+https://livees.cgtn.com/200e/prog_index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TLX TELEMAX ARGENTINA
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?eamogratis?Entretenimiento.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Nacional" logo="http://www.canal9comodoro.com/images/logo.png", Canal 4 Esquel ARGENTINA
+http://streaming.arcast.com.ar:1935/canal4esquel/canal4esquel/chunklist_w1345773721.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels", Canal BHtv
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="WEB TV" logo="https://goo.gl/ZSDbYg", REDE RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8?LISTANG2000IPTV
+#EXTINF:0 type="stream" channelId="-1" group="Channels", ENTRETENIMIENTO:TEN Canal 10 (Honduras)
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
